@@ -1,3 +1,5 @@
+#Fork de Reconocimiento facila
+
 #--------------------------------------Importamos librerias--------------------------------------------
 
 from tkinter import *
@@ -250,3 +252,4 @@ def pantalla_principal():
     pantalla.mainloop()
 
 pantalla_principal()
+
